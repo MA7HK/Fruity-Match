@@ -1,0 +1,21 @@
+# ninja log v5
+32	226	7339226632903060	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	20ada8c0c0b60b4
+11	1247	7339226643103537	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	1c8f0255a75fbfd0
+22	924	7339226639877143	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c45c058b571b85
+7	1033	7339226640977279	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	2208c5940e1e80cf
+18	981	7339226640459997	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	38ced1667bda82c3
+27	885	7339226639473525	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a1e2ffd5582145c
+3	959	7339226640221143	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	af9ef14b6c501521
+227	403	7339226634200049	D:/Unity Projects/Unity Projects/Fruits Match/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2f6p1n25/obj/arm64-v8a/libswappywrapper.so	94db198f2a948411
+14	1172	7339226642378842	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6f73dfaded77c276
+1247	1360	7339226643854739	D:/Unity Projects/Unity Projects/Fruits Match/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2f6p1n25/obj/arm64-v8a/libgame.so	b6e9528417a2a111
+26	188	7341074841277906	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	20ada8c0c0b60b4
+188	358	7341074842538307	D:/Unity Projects/Unity Projects/Fruits Match/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2f6p1n25/obj/arm64-v8a/libswappywrapper.so	94db198f2a948411
+22	822	7341074847560412	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a1e2ffd5582145c
+13	857	7341074847945475	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c45c058b571b85
+7	884	7341074848232991	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	af9ef14b6c501521
+16	917	7341074848520533	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	38ced1667bda82c3
+3	959	7341074848969671	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	2208c5940e1e80cf
+19	1090	7341074850295057	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6f73dfaded77c276
+10	1164	7341074850977975	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	1c8f0255a75fbfd0
+1165	1273	7341074851760344	D:/Unity Projects/Unity Projects/Fruits Match/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2f6p1n25/obj/arm64-v8a/libgame.so	b6e9528417a2a111

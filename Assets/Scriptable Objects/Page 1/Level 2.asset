@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 001438c172d1a8e4eb595a25a430d44a, type: 3}
+  m_Name: Level 2
+  m_EditorClassIdentifier: 
+  width: 5
+  height: 5
+  cameraDistance: 6
+  boardLayout: []
+  fruits:
+  - {fileID: 6856764987837170683, guid: ce661ffe2fc466847964cedc7cfab842, type: 3}
+  - {fileID: 852217071227019850, guid: a3953c4595866924abcb018430863f9c, type: 3}
+  - {fileID: 8322757410709208681, guid: 7e4d458415f49914fadfd49c3fd1565b, type: 3}
+  scoreGoals: 20030000dc050000c4090000
+  endGameRequirement:
+    _gameType: 1
+    _value: 25
+  levelGoals:
+  - _numberNeeded: 30
+    _numberCollected: 32
+    _goalSprite: {fileID: 21300000, guid: 0a7878d4d2b58194bad7cfc28db9f1ca, type: 3}
+    _matchValue: Blueberry

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 001438c172d1a8e4eb595a25a430d44a, type: 3}
+  m_Name: Level 7
+  m_EditorClassIdentifier: 
+  width: 5
+  height: 6
+  cameraDistance: 6
+  boardLayout: []
+  fruits:
+  - {fileID: 267003244838312713, guid: b5abc915e339d894ea73cdf720e1101b, type: 3}
+  - {fileID: 527847827233486650, guid: af86e7a0baeb2b84a8174c43601f4c80, type: 3}
+  - {fileID: 852217071227019850, guid: a3953c4595866924abcb018430863f9c, type: 3}
+  - {fileID: 6856764987837170683, guid: ce661ffe2fc466847964cedc7cfab842, type: 3}
+  scoreGoals: e803000008070000c4090000
+  endGameRequirement:
+    _gameType: 0
+    _value: 30
+  levelGoals:
+  - _numberNeeded: 25
+    _numberCollected: 0
+    _goalSprite: {fileID: 21300000, guid: 724c1d9f20bd4f5468b53d01d79f68c6, type: 3}
+    _matchValue: Apple
+  - _numberNeeded: 20
+    _numberCollected: 0
+    _goalSprite: {fileID: 21300000, guid: 40a053d1a9219044db699be91a1a6a51, type: 3}
+    _matchValue: Banana

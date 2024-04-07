@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 001438c172d1a8e4eb595a25a430d44a, type: 3}
+  m_Name: Level 18
+  m_EditorClassIdentifier: 
+  width: 5
+  height: 7
+  cameraDistance: 6
+  boardLayout:
+  - _x: 1
+    _y: 2
+    _tileKind: 2
+  - _x: 1
+    _y: 3
+    _tileKind: 0
+  - _x: 1
+    _y: 4
+    _tileKind: 0
+  - _x: 2
+    _y: 2
+    _tileKind: 0
+  - _x: 2
+    _y: 3
+    _tileKind: 2
+  - _x: 2
+    _y: 4
+    _tileKind: 0
+  - _x: 3
+    _y: 2
+    _tileKind: 0
+  - _x: 3
+    _y: 3
+    _tileKind: 0
+  - _x: 3
+    _y: 4
+    _tileKind: 2
+  fruits:
+  - {fileID: 267003244838312713, guid: b5abc915e339d894ea73cdf720e1101b, type: 3}
+  - {fileID: 2841474023384184877, guid: db13147dd11eb7640a9dfd7d4db2250a, type: 3}
+  - {fileID: 8322757410709208681, guid: 7e4d458415f49914fadfd49c3fd1565b, type: 3}
+  - {fileID: 6856764987837170683, guid: ce661ffe2fc466847964cedc7cfab842, type: 3}
+  scoreGoals: bc020000dc050000c4090000
+  endGameRequirement:
+    _gameType: 1
+    _value: 40
+  levelGoals:
+  - _numberNeeded: 25
+    _numberCollected: 27
+    _goalSprite: {fileID: 21300000, guid: baba58b9ac8e25a40ab02b324d0501d5, type: 3}
+    _matchValue: Watermelon
+  - _numberNeeded: 25
+    _numberCollected: 39
+    _goalSprite: {fileID: 21300000, guid: 2166871147d75c648903b827467b92fb, type: 3}
+    _matchValue: Orange
