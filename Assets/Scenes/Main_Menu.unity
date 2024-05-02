@@ -2479,7 +2479,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Develop by Manish Kumar Singh
+  m_text: Developed by Manish Kumar Singh
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 934c450a3357be44bad30a48a47a7078, type: 2}
   m_sharedMaterial: {fileID: 3413072168614438544, guid: 934c450a3357be44bad30a48a47a7078, type: 2}

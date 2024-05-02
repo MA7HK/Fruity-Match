@@ -23,9 +23,9 @@ MonoBehaviour:
   scoreGoals: 20030000dc050000c4090000
   endGameRequirement:
     _gameType: 1
-    _value: 25
+    _value: 45
   levelGoals:
   - _numberNeeded: 30
-    _numberCollected: 32
+    _numberCollected: 31
     _goalSprite: {fileID: 21300000, guid: 0a7878d4d2b58194bad7cfc28db9f1ca, type: 3}
     _matchValue: Blueberry
